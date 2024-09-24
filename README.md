@@ -15,7 +15,7 @@
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Pages](https://pages.github.com/)
 # Experiments 
-- :blush: This is a blush emoji!  
+-  This is a blush emoji!  
 - :smirk: Here's a smirk emoji!
 - :smile: This is a smile emoji!
 - :heart: This is a heart emjoi!
