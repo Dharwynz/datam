@@ -17,5 +17,5 @@
 # Experiments 
 - 😊 This is a blush emoji!  
 - 😏 Here's a smirk emoji!
-- :smile: This is a smile emoji!
-- :heart: This is a heart emjoi!
+- 😁 This is a smile emoji!
+- ❤️ This is a heart emjoi!
